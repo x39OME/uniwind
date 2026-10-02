@@ -2,6 +2,7 @@
 
 ## What did we use in the project?
 ### 1- [Uniwind](https://uniwind.dev/)
+### 2- [docs expo](https://docs.expo.dev/)
 
 
 ## Preview Final Project
@@ -13,6 +14,6 @@
 <img src="./preview/onboarding-app.jpg" alt=" app" />
 
 ## Packages
-
+- npx create-expo-app@latest
 
 
